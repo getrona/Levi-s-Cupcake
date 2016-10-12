@@ -1,0 +1,62 @@
+body {
+  font-family: fantasy;
+  text-align: center;
+  background-image: url("../img/cupcaketile.jpg");
+  font-size: 20px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  padding: 10px;
+  font-family: fantasy;
+}
+
+h2 {
+  border-bottom: 2px solid black;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best1 {
+  border-top: 3px dotted black;
+  border-left: 3px dashed black;
+  border-bottom: 3px dotted black;
+}
+
+.best2 {
+  border-top: 3px dotted black;
+  border-bottom: 3px dotted black;
+}
+
+.best3 {
+  border-top: 3px dotted black;
+  border-right: 3px dashed black;
+  border-bottom: 3px dotted black;
+}
+
+.titlebar {
+  background-color: white;
+}
+
+img {
+  width: 250px;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color: green;
+}
+
+ul {
+  list-style: none;
+}
